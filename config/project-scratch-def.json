@@ -1,10 +1,11 @@
 {
-  "orgName": "Demo company",
+  "orgName": "Scratch Org ",
   "edition": "Developer",
   "features": [],
+  "hasSampleData": true,
   "settings": {
     "apexSettings": {
-      "enableCompileOnDeploy": true  
+      "enableCompileOnDeploy": true
     },
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
@@ -16,6 +17,9 @@
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
+    },
+    "appExperienceSettings": {
+      "doesHideAllAppsInAppLauncher": true
     }
   }
 }
